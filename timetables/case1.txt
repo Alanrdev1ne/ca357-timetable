@@ -1,0 +1,30 @@
+Monday:
+IT Mathematics: 10-11 XG22 T Brady
+Web Design: 11-1 SA101 J Kernan
+Problem-solving: 2-3 QG13 J McKenna
+Problem-solving: 3-4 L125,L114,L101 J McKenna
+Web Design: 4-6 LG26,LG25,LG27 J Kernan
+
+Tuesday:
+Computing Programming I: 9-10 CG12 S Blott
+Computing Programming I: 10-11 QG15 S Blott
+IT Mathematics(H-M): 11-12 CG12 A MacAlister
+Problem-solving: 1-2 HG20 J McKenna
+Computing Programming I: 2-4 L101,L125,L128 S Blott
+IT Mathematics: 5-6 HG23 T Brady
+
+Wednesday:
+Computing Programming I: 10-11 QG15 S Blott
+IT Mathematics(N-Z): 11-12 C115 E O'Mahony
+Computer Systems: 12-1 QG13 M Ward
+
+Thursday:
+Computer Systems: 9-10 L101 M Ward
+Computing Programming I: 10-11 XG19 S Blott
+Computer Systems: 1-2 QG13 M Ward
+Computing Programming I: 2-4 LG25,L128,L125 S Blott
+
+Friday:
+IT Mathematics(A-G): 9-10 CG04 A MacAlister
+IT Mathematics: 10-11 QG15 T Brady
+Problem-solving: 12-1 HG23 J McKenna
