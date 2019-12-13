@@ -1,14 +1,45 @@
+body {
+    height: 100%;
+
+}
+
 .lecture {
     background-color: #ff6666;
     padding: 2%;
+    margin: 2%
 }
 
 .lab {
     background-color: #ccffff;
     padding: 2%;
+    margin: 2%
 }
 
 .tutorial {
     background-color: #00ff00;
     padding: 2%;
+    margin: 2%
+}
+
+.desktop {
+    position: fixed;
+}
+
+.mobile {
+    display: none;
+
+}
+
+/* desktop view */
+@media screen and (max-device-aspect-ratio: 4/3) {
+
+    .desktop {
+        display: none;
+    }
+
+    .mobile {
+        position: absolute;
+        display: table-column;
+    }
+
 }
