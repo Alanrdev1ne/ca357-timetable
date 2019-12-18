@@ -40,3 +40,26 @@
     margin-top: 1%;
     margin-left: 2%;
 }
+
+.desktop {
+    position: fixed;
+}
+
+.mobile {
+    display: none;
+
+}
+
+/* desktop view */
+@media screen and (max-device-aspect-ratio: 4/3) {
+
+    .desktop {
+        display: none;
+    }
+
+    .mobile {
+        position: absolute;
+        display: table-column;
+    }
+
+}
