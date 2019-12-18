@@ -1,31 +1,22 @@
+.lecture, .lab, .tutorial {
+    padding: 10%;
+}
+
 .lecture {
     background-color: #F49F8C;
-    padding: 10%;
 }
 
 .lab {
     background-color: #ccffff;
-    padding: 10%;
 }
 
 .tutorial {
     background-color: #EBE05E;
-    padding: 10%;
 }
 
-.col-1 {
-    border-left: 1px groove;
+.col-1, .col-2, .col-3 {
     border-bottom: 1px groove;
-}
-
-.col-2 {
     border-left: 1px groove;
-    border-bottom: 1px groove;
-}
-
-.col-3 {
-    border-left: 1px groove;
-    border-bottom: 1px groove;
 }
 
 .col-10 {
@@ -42,16 +33,15 @@
 }
 
 .desktop {
-    position: fixed;
+    position: absolute;
 }
 
 .mobile {
     display: none;
-
 }
 
-/* desktop view */
-@media screen and (max-device-aspect-ratio: 4/3) {
+/* mobile view */
+@media screen and (max-width: 768px) {
 
     .desktop {
         display: none;
