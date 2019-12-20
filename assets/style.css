@@ -1,5 +1,7 @@
-.lecture, .lab, .tutorial {
+.class {
     padding: 10%;
+    height: 100%;
+    font-size: 0.85em;
 }
 
 .lecture {
@@ -14,42 +16,17 @@
     background-color: #EBE05E;
 }
 
-.col-1, .col-2, .col-3 {
-    border-bottom: 1px groove;
-    border-left: 1px groove;
+.slot {
+    border-top: 1px solid gray;
+    border-right: 1px solid gray;
 }
 
-.col-10 {
-    border-bottom: 1px groove;
-}
-
-.col {
-    border-left: 1px groove;
+.timetable {
+    border-bottom: 1px solid gray;
+    border-left: 1px solid gray;
 }
 
 .paragraph {
     margin-top: 1%;
     margin-left: 2%;
-}
-
-.desktop {
-    position: absolute;
-}
-
-.mobile {
-    display: none;
-}
-
-/* mobile view */
-@media screen and (max-width: 768px) {
-
-    .desktop {
-        display: none;
-    }
-
-    .mobile {
-        position: absolute;
-        display: table-column;
-    }
-
 }
