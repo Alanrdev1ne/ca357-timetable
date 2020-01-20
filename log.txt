@@ -1,0 +1,380 @@
+commit 39efec71b8054b70218622a49c39d6ed9beae9ea
+Author: whaamp <seanndyerr@gmail.com>
+Date:   Fri Dec 20 09:01:04 2019 +0000
+
+    Add the user evaluation report.
+
+commit 8d24b3d8adb3b67e872c2c8c1b84ec4bba4f873b
+Author: whaamp <seanndyerr@gmail.com>
+Date:   Fri Dec 20 08:46:40 2019 +0000
+
+    Added to desktop view, made it more responsive.
+
+commit 1f13390d2c1fd013102cd6820207d2f9d6743fe2
+Author: devina24 <alan.devine24@mail.dcu.ie>
+Date:   Thu Dec 19 23:00:01 2019 +0000
+
+    added link to readme
+
+commit 2e636c992b03de53554ce204647b8ce957d858ad
+Author: lukehebb1 <33845020+lukehebb1@users.noreply.github.com>
+Date:   Wed Dec 18 18:03:15 2019 +0000
+
+    added duration and module code to mobile view
+
+commit 6f35c2d28169ad3506a7ac9ef0e6a926892f661d
+Author: Sean Dyer <seanndyerr@gmail.com>
+Date:   Wed Dec 18 17:20:50 2019 +0000
+
+    Fixed CASE4 class issues.
+
+commit d709e40fc460e4a53ea843f266eae8ea89777f60
+Author: Sean Dyer <seanndyerr@gmail.com>
+Date:   Wed Dec 18 17:17:26 2019 +0000
+
+    Fixed absolute position.
+
+commit 4c8daa9927cf2c38a3706d312235f819ec570c9c
+Author: = <alan.devine24@mail.dcu.ie>
+Date:   Wed Dec 18 12:28:07 2019 +0000
+
+    Added provisional mobile styling
+
+commit 457b3e3e8bbb68485838fe24c3598b659db44214
+Author: = <alan.devine24@mail.dcu.ie>
+Date:   Wed Dec 18 12:27:16 2019 +0000
+
+    Added container class to mobile timetable
+
+commit 64bcc7289a720b897a7768d71b446d6c8b66d3e1
+Author: = <alan.devine24@mail.dcu.ie>
+Date:   Wed Dec 18 12:15:32 2019 +0000
+
+    Added provisional mobile styling
+
+commit 9859718295e9b1d638305326f2caeba9d916542c
+Author: = <alan.devine24@mail.dcu.ie>
+Date:   Wed Dec 18 11:38:41 2019 +0000
+
+    Added provisional mobile styling
+
+commit a42b19aaf7b6873721f7c67641b1b40ded12a819
+Author: = <alan.devine24@mail.dcu.ie>
+Date:   Wed Dec 18 11:20:43 2019 +0000
+
+    Added provisional mobile styling
+
+commit 6ca6a9cfb71a275c17a16f92edb20f17f585e6a0
+Author: = <alan.devine24@mail.dcu.ie>
+Date:   Wed Dec 18 11:06:30 2019 +0000
+
+    Added Mobile and Desktop styling classes
+
+commit 8460477cec912476d891a9242b2b160f3513d8a0
+Author: = <alan.devine24@mail.dcu.ie>
+Date:   Wed Dec 18 11:01:30 2019 +0000
+
+    Added closing brace in .col class
+
+commit d7825ae517bfb72f7d353deb73f47ec8ebe375d9
+Author: molons29 <sean.moloney29@mail.dcu.ie>
+Date:   Tue Dec 17 21:57:34 2019 -0800
+
+    Remove placeholder
+
+commit 5c04c3ea8ef0f9f4ea4587cffdd41d7dd242ee19
+Author: molons29 <sean.moloney29@mail.dcu.ie>
+Date:   Tue Dec 17 21:52:02 2019 -0800
+
+    Fix path error for favicon
+
+commit f72f4d9b1ff24dfde9363908d145a79933e623a8
+Author: molons29 <sean.moloney29@mail.dcu.ie>
+Date:   Tue Dec 17 21:50:13 2019 -0800
+
+    Add favicon to all pages
+
+commit 6595c43adb71ff209792ae9034a6876db5fd3b0b
+Merge: b826c6d 4d18656
+Author: molons29 <sean.moloney29@mail.dcu.ie>
+Date:   Tue Dec 17 21:43:49 2019 -0800
+
+    Fix merge issue
+
+commit b826c6d8f5f17bf1885aa54906ecc0cd32647460
+Author: molons29 <sean.moloney29@mail.dcu.ie>
+Date:   Tue Dec 17 21:39:41 2019 -0800
+
+    Add favicon
+
+commit 1e0279afd8451363d046d96c6bb0b6602f9ba8ab
+Author: molons29 <sean.moloney29@mail.dcu.ie>
+Date:   Tue Dec 17 20:44:56 2019 -0800
+
+    Fix borders on all timetables
+
+commit 2bfa990ff3eacc3c75250418d5b737da32a9f2db
+Author: molons29 <sean.moloney29@mail.dcu.ie>
+Date:   Tue Dec 17 20:39:39 2019 -0800
+
+    Add border to case4.html
+
+commit 4ca0a683b0207d2bb9e0c5664a3bac4fd8354469
+Author: molons29 <sean.moloney29@mail.dcu.ie>
+Date:   Tue Dec 17 20:29:14 2019 -0800
+
+    Add border to case3.html
+
+commit 56a524d1b3799ba6069d9fe833255221f5f6b679
+Author: molons29 <sean.moloney29@mail.dcu.ie>
+Date:   Tue Dec 17 20:18:22 2019 -0800
+
+    Add borders to case2.html
+
+commit 863d8789ffb3aea87b2f1a3a56c72cc5c57a5e96
+Author: molons29 <sean.moloney29@mail.dcu.ie>
+Date:   Tue Dec 17 20:02:14 2019 -0800
+
+    Add border to timeslots
+
+commit 4d186566f26612ae839f9f1fe039455b8cbd4026
+Merge: ce99f08 1e0279a
+Author: Sean <sean.brereton4@mail.dcu.ie>
+Date:   Tue Dec 17 20:58:53 2019 +0000
+
+    Merge branch 'master' of https://gitlab.computing.dcu.ie/devina24/ca357-timetable
+
+commit ce99f08d3bdfc34dda20e6d614ca631f1a651e4d
+Author: Sean <sean.brereton4@mail.dcu.ie>
+Date:   Tue Dec 17 20:57:57 2019 +0000
+
+    added description and updated example
+
+commit 1662b9593e38cc7b14805d6697a43bebeb2e5d4f
+Author: Sean <sean.brereton4@mail.dcu.ie>
+Date:   Tue Dec 17 20:57:21 2019 +0000
+
+    updated style.css
+
+commit 18bd1affe34a400edbe0354464a3a3f7e93af2ff
+Author: Sean Brereton <sean.brereton4@mail.dcu.ie>
+Date:   Tue Dec 17 19:44:51 2019 +0000
+
+    Delete .gitkeep
+
+commit 537d08d722da0c4e4b02eb4988014d161b15871f
+Author: Sean Brereton <sean.brereton4@mail.dcu.ie>
+Date:   Tue Dec 17 19:44:32 2019 +0000
+
+    Delete case1.txt
+
+commit 22eba0b6d4d97b0bc8a0087beede97856ed2509d
+Author: Sean Brereton <sean.brereton4@mail.dcu.ie>
+Date:   Tue Dec 17 19:44:04 2019 +0000
+
+    Delete case2.txt
+
+commit 251c1174e7a74aa54a4f18f18b937fb80db81ae4
+Author: Sean Brereton <sean.brereton4@mail.dcu.ie>
+Date:   Tue Dec 17 19:43:56 2019 +0000
+
+    Delete case3.txt
+
+commit 42b2b48013db96a000a24a07ad8bb7f11b9a2fa8
+Author: Sean Brereton <sean.brereton4@mail.dcu.ie>
+Date:   Tue Dec 17 19:43:47 2019 +0000
+
+    Delete case4.txt
+
+commit accf42a28f062cd7df1b16c78f521f9db7b35cd2
+Author: Sean <sean.brereton4@mail.dcu.ie>
+Date:   Tue Dec 17 19:38:07 2019 +0000
+
+    added key and example timeslot to index.html
+
+commit 5d2e0cb22be0f32692c22cf9a690e5a7720b6920
+Author: MrFuentes <seangit99@gmail.com>
+Date:   Mon Dec 16 20:10:11 2019 +0000
+
+    Fix lecturer names
+
+commit 98d6e1404fe1c9697097098bfb4b17d2a3898bf3
+Author: Sean <sean.brereton4@mail.dcu.ie>
+Date:   Mon Dec 16 19:52:30 2019 +0000
+
+    Updated style.css colors.
+
+commit 5e8bc9c9f796f10eb5ca2d1e522eb29e3cb3866b
+Author: lukehebb1 <33845020+lukehebb1@users.noreply.github.com>
+Date:   Sun Dec 15 17:04:05 2019 +0000
+
+    added case1 timetable info
+
+commit 7a4073a5f2c9e1bfd0cd1e32a2a07526eb5ce767
+Author: = <alanrdevine@gmail.com>
+Date:   Fri Dec 13 18:29:49 2019 +0000
+
+    Fixed div count on grid
+
+commit 1d53b4457e297c38081cfb2a15c1d8bf2c339689
+Author: lukehebb1 <33845020+lukehebb1@users.noreply.github.com>
+Date:   Fri Dec 13 16:55:17 2019 +0000
+
+    added case2 timetable info
+
+commit 39536b43f951c97f5c7646152cd20f3c819def8b
+Author: lukehebb1 <33845020+lukehebb1@users.noreply.github.com>
+Date:   Tue Dec 10 15:44:52 2019 +0000
+
+    added tutorial class
+
+commit ae5ebca86e031d2b0184e015d2d4a4df9be559ac
+Author: lukehebb1 <33845020+lukehebb1@users.noreply.github.com>
+Date:   Tue Dec 10 15:38:39 2019 +0000
+
+    added comments
+
+commit 0a7510a994a1b35484f2b90919ad1c137e37dfe9
+Author: lukehebb1 <33845020+lukehebb1@users.noreply.github.com>
+Date:   Tue Dec 10 15:36:53 2019 +0000
+
+    added comments and improved spacing
+
+commit 7f44a912391438eed83d81679050050c34319c7d
+Author: lukehebb1 <33845020+lukehebb1@users.noreply.github.com>
+Date:   Tue Dec 10 15:26:30 2019 +0000
+
+    added timetable info
+
+commit 0f547cf77afb47e3bf55456b087bb0f11634710b
+Author: lukehebb1 <33845020+lukehebb1@users.noreply.github.com>
+Date:   Tue Dec 10 14:59:33 2019 +0000
+
+    fixed incorrect module codes
+
+commit 4c2095d0e903f0035fe1f4d05e7db23faabc8e0a
+Author: lukehebb1 <33845020+lukehebb1@users.noreply.github.com>
+Date:   Tue Dec 10 14:50:21 2019 +0000
+
+    fixed div class on network lab
+
+commit 5ea0f1b9430cdbe89f92145a8ef1e10e72f9b88d
+Author: lukehebb1 <33845020+lukehebb1@users.noreply.github.com>
+Date:   Tue Dec 10 14:42:41 2019 +0000
+
+    added timetable info
+
+commit ba21e97d924b8635531e1043a53da129c510f37c
+Author: Luke Hebblethwaite <luke.hebblethwaite2@mail.dcu.ie>
+Date:   Mon Dec 9 20:16:18 2019 +0000
+
+    added case4.txt
+
+commit 48a6f8db621256a00e4da2ee0bb5e9b7a0275794
+Author: Luke Hebblethwaite <luke.hebblethwaite2@mail.dcu.ie>
+Date:   Mon Dec 9 19:44:29 2019 +0000
+
+    added case3.txt
+
+commit 15361da64cac219e9a6d1ee8a8ab5f90e97ab71e
+Author: Luke Hebblethwaite <luke.hebblethwaite2@mail.dcu.ie>
+Date:   Mon Dec 9 19:05:50 2019 +0000
+
+    added case2.txt
+
+commit 11651718d5a0251a64cabebcc48d1228f39024d4
+Author: Alan Devine <alan.devine24@mail.dcu.ie>
+Date:   Mon Dec 9 18:53:02 2019 +0000
+
+    Delete placeholder
+
+commit e66c1fcac753198ae35716d846d8dd3235d22750
+Merge: 50d139a bc0a913
+Author: devina24 <alan.devine24@mail.dcu.ie>
+Date:   Mon Dec 9 18:52:08 2019 +0000
+
+    Merge branch 'master' of https://gitlab.computing.dcu.ie/devina24/ca357-timetable
+
+commit 50d139a1b16add3e104bde690b5df835d1f60612
+Author: devina24 <alan.devine24@mail.dcu.ie>
+Date:   Mon Dec 9 18:51:16 2019 +0000
+
+    Added example of timetable data
+
+commit bc0a9131df07307564e5604f778c0a41fdf8c0f6
+Author: Luke Hebblethwaite <luke.hebblethwaite2@mail.dcu.ie>
+Date:   Mon Dec 9 18:47:26 2019 +0000
+
+    added case1.txt
+
+commit 3d846b52222c50868dde3aa52617d9e14a24aad3
+Author: devina24 <alan.devine24@mail.dcu.ie>
+Date:   Mon Dec 9 18:39:56 2019 +0000
+
+    Add style sheet
+
+commit 3333cd9f554706384be77de79ba334f0550352ba
+Author: Luke Hebblethwaite <luke.hebblethwaite2@mail.dcu.ie>
+Date:   Mon Dec 9 18:17:41 2019 +0000
+
+    added timetables directory
+
+commit d6744a3843b6b8990a27e02eb652ba5096788962
+Author: Sean Brereton <sean.brereton4@mail.dcu.ie>
+Date:   Mon Dec 9 13:32:25 2019 +0000
+
+    Added case4.html template
+
+commit 60f87a5f93f75e423cec1ca354950145e10310c8
+Author: Sean Brereton <sean.brereton4@mail.dcu.ie>
+Date:   Mon Dec 9 13:31:37 2019 +0000
+
+    Added case3.html template
+
+commit c6d9f4f59439eee3ff4f41ba84a05c0d966a2ea3
+Author: Sean Brereton <sean.brereton4@mail.dcu.ie>
+Date:   Mon Dec 9 13:30:56 2019 +0000
+
+    Added case2.html template
+
+commit 8318bb63375e9a721bfb08de922cbef7d9b57d3f
+Author: devina24 <alan.devine24@mail.dcu.ie>
+Date:   Mon Dec 9 12:14:17 2019 +0000
+
+    Update Navbar
+
+commit 2457aaa47eba79b165863c05db671fc227701c45
+Author: Alan Devine <alan.devine24@mail.dcu.ie>
+Date:   Mon Dec 9 12:05:11 2019 +0000
+
+    Add Case 1 template
+
+commit b6dcc33ea473058d6626047de7d5f2dd738ed8f5
+Author: devina24 <alan.devine24@mail.dcu.ie>
+Date:   Mon Dec 9 11:57:31 2019 +0000
+
+    Update index.html
+
+commit e55be299bc63430c63b54304eb09e4a8eee5076a
+Author: devina24 <alan.devine24@mail.dcu.ie>
+Date:   Sun Dec 8 17:53:11 2019 +0000
+
+    fixed dir structure
+
+commit 9aa6d34ce3ff3dbb5548fd8138f8497e94fae87e
+Author: devina24 <alan.devine24@mail.dcu.ie>
+Date:   Sun Dec 8 17:51:24 2019 +0000
+
+    add dir structure
+
+commit e2c4eeb61bbfa414f7a7a8e2bc7008b7b62e3690
+Author: devina24 <alan.devine24@mail.dcu.ie>
+Date:   Sun Dec 8 17:48:47 2019 +0000
+
+    add index.html
+
+commit 450c9ba1392904a67ed23bb07e9ae478840b13c3
+Author: Alanrdev1ne <alanrdevine@gmail.com>
+Date:   Sun Dec 8 17:41:09 2019 +0000
+
+    add README
